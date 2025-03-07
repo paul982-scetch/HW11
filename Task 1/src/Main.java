@@ -22,6 +22,5 @@ public class Main {
         smart.info();
         apple.info();
         iphone.receiveCall("Валера", 89085);
-
     }
 }
